@@ -10,6 +10,6 @@ Contribute by:
 
 - Suggesting features/bugs through our [issues page](https://github.com/seven-squares-studios/chromeappsforever-site/issues),
 - Uploading a chrome app to the site,
-- [Bothering Google and Google chrome's twitter by clicking this bullet point](https://twitter.com/share?url=https://seven-squares-studios.github.io/chromeappsforever-site/&text=Chrome%20Apps%20Forever%20site%20is%20online%20@googlechrome%20@google&hashtags=,chromeappsforever,google,chrome,apps),
+- [Bothering Google and Google chrome's twitter by clicking this bullet point](https://twitter.com/share?url=https://seven-squares-studios.github.io/chromeappsforever-site/&text=Chrome%20Apps%20Forever%20site%20is%20online%20@googlechrome%20@google&hashtags=chromeappsforever,google,chrome,apps),
 - You could also share onto [Facebook](https://www.facebook.com/sharer.php?u=https://seven-squares-studios.github.io/chromeappsforever-site/) and [Google+](https://plus.google.com/share?url=https://seven-squares-studios.github.io/chromeappsforever-site/),
 - Checking out our [Trello Board](https://trello.com/b/x0HhMzKn) for current work been done and working on a bug or new feature. Pull requests are definitely welcome.
