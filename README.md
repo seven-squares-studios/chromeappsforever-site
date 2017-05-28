@@ -8,7 +8,7 @@ Chrome Apps Forever is a web site setup to store chrome apps for those on a devi
 
 Anyone can contribute by:
 
-- Checking out our [Trello Board](https://trello.com/b/x0HhMzKn) and suggesting any new features and/or ideas for the site,
+- Checking out our [Trello Board](https://trello.com/b/x0HhMzKn) for current work been done and suggesting features/bugs through our [issues page](https://github.com/seven-squares-studios/chromeappsforever-site/issues),
 - Uploading a chrome app to the site,
 - [Bothering Google and Google chrome's twitter by clicking this bullet point](https://twitter.com/share?url=https://seven-squares-studios.github.io/chromeappsforever-site/&text=Chrome Apps Forever site online @googlechrome @google&hashtags=,chromeappsforever,google,chrome,apps),
 - You could also share onto [Facebook](https://www.facebook.com/sharer.php?u=https://seven-squares-studios.github.io/chromeappsforever-site/) and [Google+](https://plus.google.com/share?url=https://seven-squares-studios.github.io/chromeappsforever-site/).
