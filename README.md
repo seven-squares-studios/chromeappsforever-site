@@ -1,10 +1,10 @@
 # Chrome Apps Forever site
 
-## Why does this repo exist?
+## Why does this repo exist
 
 Chrome Apps Forever is a web site setup to store chrome apps for those on a device that isn't a chromebook. Maybe when Google sees this repo/site getting some attention they'll at least keep the ability to install chrome apps in chrome. Maybe even under a flag. We definitely need an app that can install chrome apps, sort of like how [Chrome Dev Editor](https://github.com/GoogleChrome/chromedeveditor) does it. But yes, if you think chrome apps are worth saving then please help as much as you can.
 
-## How can I help?
+## How can I help
 
 Contribute by:
 
